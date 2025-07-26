@@ -6,7 +6,7 @@ I was one of those journalists.
 
 In this project, I've taken [a summary figure](https://www.bmj.com/content/370/bmj.m3223#F3) from what in my opinion was one of the seminal papers from that time and reimagined it as an interactive quiz with which people can calculate their relative risk of catching COVID from someone not showing symptoms, thereby making the information more accessible to a general public audience.
 
-Take the quiz yourself by going here: https://zthetrain.github.io/COVID-app/
+Take the quiz yourself by going here: https://zthetrain.github.io/COVID-risk-app/
 
 ## Reverse-engineering the logic behind the figure
 
