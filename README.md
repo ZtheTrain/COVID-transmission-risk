@@ -10,7 +10,7 @@ Take the quiz yourself by going here: https://zthetrain.github.io/COVID-app/
 
 ## Reverse-engineering the logic behind the figure
 
-Twelve different variables are presented in [the figure](https://www.bmj.com/content/370/bmj.m3223#F3), grouped into five categories — or in the case of my quiz, questions — based on the setting, number of people present, whether they were wearing masks, how long they were in contact with the infected person or people and whether they were silent, speaking, or singing and/or shouting at the time. This gives a total of 72 possible answer combinations. 
+Twelve different variables are presented in [the figure](https://www.bmj.com/content/370/bmj.m3223#F3), grouped into five categories — or in the case of my quiz, questions — based on the setting, number of people present, whether they were wearing masks, how long they were in contact with the infected person and whether they were silent, speaking, or singing and/or shouting at the time. This gives a total of 72 possible answer combinations. 
 
 I tried assigning numerical values to each variable to see if I could come up with discrete ranges of combinations that were equal to the low, medium and high risk classifications, but if this was the way that the authors of the paper originally prepared the figure I was not able to replicate their work.
 
