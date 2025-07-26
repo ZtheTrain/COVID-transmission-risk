@@ -1,0 +1,578 @@
+[
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were silent",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were speaking",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were shouting or singing",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were silent",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were speaking",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were shouting or singing",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were silent",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were speaking",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were shouting or singing",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were silent",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were speaking",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were shouting or singing",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were silent",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were speaking",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were shouting or singing",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were silent",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were speaking",
+    "risk": "Low/medium risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were shouting or singing",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were silent",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were speaking",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were shouting or singing",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were silent",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were speaking",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere outdoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were shouting or singing",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were silent",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were speaking",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were shouting or singing",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were silent",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were speaking",
+    "risk": "Low/medium risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were shouting or singing",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were silent",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were speaking",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were shouting or singing",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were silent",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were speaking",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were shouting or singing",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were silent",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were speaking",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were shouting or singing",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were silent",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were speaking",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were shouting or singing",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were silent",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were speaking",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were shouting or singing",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were silent",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were speaking",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere indoors and well ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were shouting or singing",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were silent",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were speaking",
+    "risk": "Low risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were shouting or singing",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were silent",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were speaking",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were not many people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were shouting or singing",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were silent",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were speaking",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were shouting or singing",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were silent",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were speaking",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were not many people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were shouting or singing",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were silent",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were speaking",
+    "risk": "Medium risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a short time",
+    "activity": "We were shouting or singing",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were silent",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were speaking",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were lots of people there",
+    "mask": "We were wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were shouting or singing",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were silent",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were speaking",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a short time",
+    "activity": "We were shouting or singing",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were silent",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were speaking",
+    "risk": "High risk"
+  },
+  {
+    "setting": "Somewhere poorly ventilated",
+    "people": "There were lots of people there",
+    "mask": "We weren't wearing masks",
+    "contact": "For a prolonged time",
+    "activity": "We were shouting or singing",
+    "risk": "High risk"
+  }
+]
