@@ -16,6 +16,8 @@ I tried assigning numerical values to each variable to see if I could come up wi
 
 Instead I used the [itertools.product function](https://docs.python.org/3/library/itertools.html#itertools.product) to generate all the possible valid answer combinations based on the underlying logic of the figure and then manually matched each of these combinations with its corresponding risk level — low, medium or high. The two borderline cases between low and medium risk in the figure I have represented in the quiz as a fourth category — low to medium risk. This data was turned into a json file that the quiz referred to in returning the risk level of catching COVID posed by the combination of conditions selected by the user.
 
+The source code behind the quiz is available here: https://github.com/ZtheTrain/COVID-risk-app 
+
 ## Skills gained during this project
 
 This is the first interactive app I have built, the first app I've built using Svelte and indeed working in JavaScript, so it has presented an intriguing challenge to get used to a new language and framework and understand how a web app is developed, built and deployed. It's also the first time I've used a CSS framework, in this case Tailwind CSS, to style the app and broader page. Again this presented a learning curve but is a very useful skill to become proficient in.
